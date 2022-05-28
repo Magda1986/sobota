@@ -20,3 +20,5 @@ elif x == "Świeci słońce":
     print("Zabierz okulary przeciwsłoneczne")
 else:
     print("Niezidentyfikowana przez system pogoda za oknem")
+
+print("test nowego brancha")
