@@ -5,13 +5,18 @@ for i in lista:
 lista.append("masło")
 print(lista)
 lista.append("sok pomarańczowy")
-print(lista)
 lista. append("pepsi")
+print(lista)
 
 #x = "Pada deszcz"
+#x = "Deszcz nie pada"
 x = "Świeci słońce"
 
 if x == "Pada deszcz":
     print("Koniecznie zabierz parasol idąć do sklepu!")
-else:
+elif x == "Deszcz nie pada":
     print("Pogoda za oknem ok, możesz iść bez parasola :)")
+elif x == "Świeci słońce":
+    print("Zabierz okulary przeciwsłoneczne")
+else:
+    print("Niezidentyfikowana przez system pogoda za oknem")
