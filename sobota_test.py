@@ -6,3 +6,8 @@ lista.append("masło")
 print(lista)
 lista.append("sok pomarańczowy")
 print(lista)
+
+x = "Pada deszcz"
+
+if x == "Pada deszcz":
+    print("Koniecznie zabierz parasol idąć do sklepu!")
