@@ -22,3 +22,4 @@ else:
     print("Niezidentyfikowana przez system pogoda za oknem")
 
 print("test nowego brancha")
+print ("test nanoszenia zmian w repozytorium zdalnym i przenoszenia do lokalnego"
